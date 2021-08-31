@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800&display=swap');
+
+/* common utilities  */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #FFFFFF;
+}
+
+h1 span {
+    color: #E76F51;
+}
+
+/* header start  */
+
+header {
+    background-color: #264653;
+}
+
+.header-text {
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: 300;
+}
+
+.header-text-description {
+    color: #E0E0E0;
+    font-weight: 300;
+    font-size: 16px;
+
+}
+
+.header-btn {
+    background-color: #E76F51;
+}
+
+/* header end  */
+/* feature bike start  */
+.feature-bike h5 {
+    font-weight: 600;
+    color: #E76F51;
+    font-size: 14px;
+}
+
+.gray-scale {
+    filter: grayscale(100%);
+
+}
+
+/* feature bike end  */
+
+
+/* clients-section start  */
+
+.clients-section p i {
+    color: #E76F51;
+}
+
+.client-text {
+    color: #6C6C6C;
+}
+
+.client-name {
+    color: #23A6F0;
+    font-size: 14px;
+}
+
+.client-job {
+    color: #252B42;
+    font-size: 14px;
+}
+
+/* clients-section end  */
